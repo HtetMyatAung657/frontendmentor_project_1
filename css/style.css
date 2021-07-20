@@ -1,0 +1,68 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(bg-desktop.svg);
+}
+h1 {
+    display: inline-block;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 14px;
+    line-height: 1.5;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+}
+p{
+    display: inline-block;
+    color: white;
+    margin-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+.top {
+    margin: 30px auto 60px 30px;
+}
+.illustration {
+    margin-left: 30px;
+    float: left;
+}
+.btn {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    height: 20px;
+    line-height: 20px;
+    color: #6648B1;
+    font-family: Brush Script MT;
+    width: 155px;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 50px;
+ }
+ .footer {
+    margin-top: 150px;   
+    padding-bottom: 60px;
+}
+.icon {
+    width: 40px;
+    height: 40px;
+}
+.icon-facebook {
+    position: absolute;
+    right: 250px;
+}
+.icon-twitter {
+    position: absolute;
+    right: 175px;
+}.icon-instagram {
+    position: absolute;
+    right: 100px;
+}
+ 
